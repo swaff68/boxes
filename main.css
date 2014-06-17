@@ -1,0 +1,212 @@
+.E1 .boxes {
+display: block;
+height: 100px;
+width: 100px;
+}
+
+.E1 .blue-box{
+	height:600px;
+	width:600px;
+	background-color: blue;
+	position:relative;
+	
+
+}
+
+.E1 .green-box{
+	height: 100px;
+	width:100px;
+	background-color: green;
+	position:absolute;
+	bottom:10px;
+	left:10px;
+	
+
+}
+
+.E1 .red-box{
+	height: 100px;
+	width:100px;
+	background-color: red;
+	position:absolute;
+	bottom:10px;
+	right:10px;
+	
+
+}
+
+.E2 .boxes {
+display: block;
+height: 100px;
+width: 100px;
+}
+
+.E2 .blue-box{
+
+	background-color: blue;
+	position:relative;
+	
+
+}
+
+.E2 .green-box{
+
+	background-color: green;
+	position:absolute;
+	top:20px;
+	left:20px;
+	
+
+}
+
+.E2 .red-box{
+
+	background-color: red;
+	position:absolute;
+	top:40px;
+	left:40px;
+	
+
+}
+.E3{
+	padding-top: 40px;
+
+}
+
+
+.E3 .blue-box{
+
+	background-color: blue;
+	
+	display: inline-block;
+	height: 25px;
+	width: 25px;
+
+
+	
+
+}
+
+.E3 .green-box{
+
+	background-color: green;
+	position:relative;
+	display: inline-block;
+	padding: 5px;
+	
+	
+
+}
+
+.E3 .red-box{
+
+	background-color: red;
+	display: inline-block;
+	height: 25px;
+	width: 25px;
+
+}
+
+.iblue{
+	padding: 5px 5px 0px 5px;
+}
+
+.iy{
+	/*padding: 5px;*/
+	display: block;
+
+
+}
+
+.ybox1{
+	background-color: black;
+	display: inline-block;
+	padding: 5px;
+}
+
+.ybox{
+	background-color: yellow;
+	height: 25px;
+	width: 25px;
+	display: inline-block;
+}
+
+.blackbox {
+	padding: 5px;
+	background-color: black;
+	position: relative;
+	display: inline-block;
+	margin-top: 10px;
+}
+
+.pbox{
+	background-color: purple;
+	height: 25px;
+	width: 25px;
+	display: inline-block;
+}
+
+.parentbox{
+	width: 300px;
+	height: 300px;
+	background-color: gray;
+	position: relative;
+}
+
+.tlbox{
+	width: 50px;
+	height: 50px;
+	background-color: red;
+	position: absolute;
+	top:25px;
+	left:25px;
+}
+
+.trbox{
+	width: 50px;
+	height: 50px;
+	background-color: blue;
+	position: absolute;
+	top:25px;
+	right:25px;
+}
+
+.cbox{
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	position: absolute;
+	top:50%;
+	left:50%;
+	margin-left: -50px;
+	margin-top: -50px;
+}
+
+.cbox1{
+	width: 25px;
+	height: 25px;
+	background-color: purple;
+	position: absolute;
+	top:50%;
+	left:50%;
+	margin-left: -12.5px;
+	margin-top: -12.5px;
+}
+
+.blbox{
+	position: absolute;
+	background-color: yellow;
+	width: 50px;
+	height: 50px;
+	bottom: 25px;
+	left: 25px;
+}
+
+.brbox{
+	position: absolute;
+	background-color: green;
+	height: 50px;
+	width: 50px;
+	bottom: 25px;
+	right: 25px;
+}
